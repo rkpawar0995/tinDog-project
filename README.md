@@ -1,2 +1,2 @@
-TinDog Starting Files
-# tinDog-project
+# tindog Project by Angela Yu (Udemy BootCamp)
+# Completed with Bootstrap 4 
